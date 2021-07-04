@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://github.com/IceroDev/Dislink-Discord-Bot"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/IceroDev/Dislink-Discord-Bot?style=for-the-badge"></a> <a href="https://my.dislink.fr/dislink"><img alt="Discord" src="https://img.shields.io/discord/859474695133200394?label=Serveur%20Discord&style=for-the-badge"></a> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/IceroDev/Dislink-Discord-Bot?style=for-the-badge"> <a href="https://www.npmjs.com/package/discord.js"><img alt="npm" src="https://img.shields.io/npm/v/discord.js?label=discord.js&style=for-the-badge"></a> <a href="https://github.com/IceroDev/Dislink-Discord-Bot"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/IceroDev/Dislink-Discord-Bot?style=for-the-badge"></a>
 </p>
-<p align="center"><a href="https://github.com/IceroDev/Dislink-Discord-Bot/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/IceroDev/Dislink-Discord-Bot?style=for-the-badge"></a></p>
 <p align="center">
   <a href="https://my.dislink/dislink"><img src="https://discord.com/api/guilds/859474695133200394/embed.png?style=banner3" alt="Discord"></a>
  </p>
